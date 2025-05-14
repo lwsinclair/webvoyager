@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/zedwei-webvoyager-badge.png)](https://mseep.ai/app/zedwei-webvoyager)
+
 ### Install
 1. Install latest version of Python.
 2. ```pip install -r requirements.txt``` in the "src" folder. This will install all necessary dependencies of the server code.
